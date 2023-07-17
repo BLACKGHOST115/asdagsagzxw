@@ -5,14 +5,14 @@ This is just a repository for my and my friend themes in aliucord / vendetta / v
 
 # Aliucord
 
-<h1>how to install Aliucord and the theme</h>
+<h>how to install Aliucord and the theme</h>
 
 
 <a href="https://github.com/Aliucord/Aliucord" target="_blank">how to install Aliucord</a>
 
 <a href="https://discord.com/channels/811255666990907402/811261298997460992/845243103757467658" target="_blank">how to install themes for themes Aliucord</a>
 
-<h2>themes</h2>
+<h1>themes</h1>
 
 
 
@@ -22,11 +22,11 @@ This is just a repository for my and my friend themes in aliucord / vendetta / v
 
 # Vendetta
 
-<h1>how to install Vendetta and the theme</h1>
+<h>how to install Vendetta and the theme</h>
 
 <a href="https://github.com/vendetta-mod/Vendetta" target="_blank">how to install Vendetta</a>
 
-<h4>themes</h4>
+<h1>themes</h1>
 
 <img src="https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/Screenshots/vendetta.png"/>
 
@@ -34,7 +34,7 @@ Vencord link: `https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-
 
 # Vencord / batterdiscord
 
-<h1>how to install batterdiscord / Vencord and the theme</h1>
+<h>how to install batterdiscord / Vencord and the theme</h>
 
 
 
@@ -42,9 +42,9 @@ Vencord link: `https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-
 
 <a href="https://vencord.dev" target="_blank">how to install Vencord</a>
 
-<h6>themes</h6>
+<h1>themes</h1>
 
-<h7>kome-san themes</h7>
+<h1>kome-san themes</h1>
 
 <img src="https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/Screenshots/komiv1.png"/>
 
@@ -59,22 +59,27 @@ Vencord link: `https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-
 
 Vencord link: `https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/vencord-and-batterdiscord/clear-komi/Clear_komi_v2.theme.css`
 
-<h8> my themes</h8>
+<h1> my themes</h1>
 
 <img src="https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/Screenshots/coder.png"/>
 
-<a herf="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BLACKGHOST115/ghost-themes-for-custom-discord/blob/main/vencord-and-batterdiscord/my-theme/clear_coder.theme.css" target="_blank">download the zip for clear coder</a>
+<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BLACKGHOST115/ghost-themes-for-custom-discord/blob/main/vencord-and-batterdiscord/my-theme/clear_coder.theme.css" target="_blank">download the zip clear coder</a>
 
 Vencord link: `https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/vencord-and-batterdiscord/my-theme/clear_coder.theme.css`
 
+
 <img src="https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/Screenshots/kids slope.png"/>
 
-<a herf="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BLACKGHOST115/ghost-themes-for-custom-discord/blob/main/vencord-and-batterdiscord/my-theme/cosy_Kids%20on%20the%20Slope.css" target="_blank">download the zip for cosy Kids on the Slope</a>
+
+
+<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BLACKGHOST115/ghost-themes-for-custom-discord/blob/main/vencord-and-batterdiscord/my-theme/cosy_Kids%20on%20the%20Slope.css" target="_blank">download the zip for cosy Kids on the Slope</a>
+
 
 Vencord link: `https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/vencord-and-batterdiscord/my-theme/cosy_Kids%20on%20the%20Slope.css`
 
 <img src="https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/Screenshots/cosy.png"/>
 
-<a herf="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BLACKGHOST115/ghost-themes-for-custom-discord/blob/main/vencord-and-batterdiscord/my-theme/cosy_coder.css" target="_blank">download the zip for cosy coder</a>
+<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BLACKGHOST115/ghost-themes-for-custom-discord/blob/main/vencord-and-batterdiscord/my-theme/cosy_coder.css" target="_blank">download the zip for cosy coder</a>
+
 
 Vencord link: `https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/vencord-and-batterdiscord/my-theme/cosy_coder.css`
