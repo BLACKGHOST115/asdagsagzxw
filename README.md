@@ -1,2 +1,3 @@
 # asdagsagzxw
-this is just a repasetory for my and friend teams in alucord and vendeta ( custem discord client ) if you are use=ing them just tell me so i can make a old ver for you or clone theme i some times try to add to theme or change theme alil
+<p> discord theme </p>
+This is just a repository for my and friend teams in aliucord and vendetta (custom discord client) if you are using them just telling me so I can make an old vet for you or clone theme I sometimes try to add to a theme or change the theme all
