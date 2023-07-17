@@ -37,9 +37,9 @@ Vencord link: `https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-
 
 
 
-<a href="https://betterdiscord.app"target="_blank">how to install batterdiscord</a>
+<a href="https://betterdiscord.app" target="_blank">how to install batterdiscord</a>
 
-<a href="https://vencord.dev"target="_blank">how to install Vencord</a>
+<a href="https://vencord.dev" target="_blank">how to install Vencord</a>
 
 <h6>themes</h6>
 
