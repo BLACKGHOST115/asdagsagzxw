@@ -20,3 +20,12 @@ This is just a repository for my and my friend themes in aliucord / vendetta / v
 
 
 # Vencord / batterdiscord
+<h1>komi san </h1>
+
+<img src="https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/screenshots/komiv1.png"/>
+
+<a herf="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BLACKGHOST115/ghost-themes-for-custom-discord/blob/main/vencord-and-batterdiscord/clear-komi/Clear_komi_v1.theme.css" target="_blank" >clear komiv1 </a>
+
+<img src="https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/screenshots/komiv2.png"/>
+
+<a herf="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BLACKGHOST115/ghost-themes-for-custom-discord/blob/main/vencord-and-batterdiscord/clear-komi/Clear_komi_v2.theme.css" target="_blank" >clear komiv2 </a>
