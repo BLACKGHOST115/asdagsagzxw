@@ -5,6 +5,12 @@ This is just a repository for my and my friend themes in aliucord / vendetta / v
 # Aliucord
 <a href="https://discord.com/channels/811255666990907402/811261298997460992/845243103757467658">how to install for Aliucord</a>
 
+
+
+<a href="https://deepbag.github.io/ghost-themes-for-custom-discord/gfl-ump-45-simpel-theme.json">Aliucord</a>
+
+
+
 <img src="https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/wallpaper/git-file-gfl-ump-45.png"/>
 
 
