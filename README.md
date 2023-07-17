@@ -44,7 +44,7 @@ Vendetta link: `https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for
 
 <h1>themes</h1>
 
-<h1>kome-san themes</h1>
+<h1>kome-san themes animated</h1>
 
 <img src="https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/Screenshots/komiv1.png"/>
 
