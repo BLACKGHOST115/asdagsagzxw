@@ -7,6 +7,7 @@ This is just a repository for my and my friend themes in aliucord / vendetta / v
 
 <h1>how to install Aliucord and the theme</h>
 
+
 <a href="https://github.com/Aliucord/Aliucord" target="_blank">how to install Aliucord</a>
 
 <a href="https://discord.com/channels/811255666990907402/811261298997460992/845243103757467658" target="_blank">how to install themes for themes Aliucord</a>
@@ -53,7 +54,8 @@ Vencord link: `https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-
 
 <img src="https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/Screenshots/komiv2.png"/>
 
-<a herf="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BLACKGHOST115/ghost-themes-for-custom-discord/blob/main/vencord-and-batterdiscord/clear-komi/Clear_komi_v2.theme.css" target="_blank">download the zip for komi v2</a>
+<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BLACKGHOST115/ghost-themes-for-custom-discord/blob/main/vencord-and-batterdiscord/clear-komi/Clear_komi_v2.theme.css" target="_blank">download the zip for komi v2</a>
+
 
 Vencord link: `https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/vencord-and-batterdiscord/clear-komi/Clear_komi_v2.theme.css`
 
