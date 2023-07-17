@@ -28,9 +28,10 @@ This is just a repository for my and my friend themes in aliucord / vendetta / v
 
 <h1>themes</h1>
 
-<img src="https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/Screenshots/vendetta.png"/>
+<img src=""/>
+mi fixing it now
 
-Vencord link: `https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/vendetta/happy-sky.json`
+Vendetta link: `https://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/vendetta/happy-sky.json`
 
 # Vencord / batterdiscord
 
