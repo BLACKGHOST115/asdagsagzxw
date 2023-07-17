@@ -13,6 +13,3 @@ This is just a repository for my and my friend themes in aliucord / vendetta / v
 
 
 # Vencord / batterdiscord
-
-
-[def]: ttps://raw.githubusercontent.com/BLACKGHOST115/ghost-themes-for-custom-discord/main/wallpaper/git-file-gfl-ump-45.pn
